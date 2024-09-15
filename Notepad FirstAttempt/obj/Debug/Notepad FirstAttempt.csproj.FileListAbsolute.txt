@@ -1,0 +1,10 @@
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\bin\Debug\Notepad FirstAttempt.exe.config
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\bin\Debug\Notepad FirstAttempt.exe
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\bin\Debug\Notepad FirstAttempt.pdb
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad FirstAttempt.csproj.AssemblyReference.cache
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad_FirstAttempt.Form1.resources
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad_FirstAttempt.Properties.Resources.resources
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad FirstAttempt.csproj.GenerateResource.cache
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad FirstAttempt.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad FirstAttempt.exe
+D:\Bai Tap UIT\Notepad FirstAttempt\Notepad FirstAttempt\obj\Debug\Notepad FirstAttempt.pdb
